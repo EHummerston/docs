@@ -1,4 +1,8 @@
-**Privacy Policy**
+---
+layout: page
+title: Privacy Policy
+permalink: /horridclaymen/privacy-policy
+---
 
 Edward Hummerston built the Horrid Little Clay Men app as a Free app. This SERVICE is provided by Edward Hummerston at no cost and is intended for use as is.
 
